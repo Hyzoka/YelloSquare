@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "110737054396",
+    "project_id": "yellosquare-bf390",
+    "storage_bucket": "yellosquare-bf390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110737054396:android:454aadd8da67956b588eb9",
+        "android_client_info": {
+          "package_name": "com.example.yellosquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110737054396-3k4g111atre04ep9sjcment312f7i8cq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yellosquare",
+            "certificate_hash": "d4d4bf9471aa753008bc5f548fef80ce0e9699d8"
+          }
+        },
+        {
+          "client_id": "110737054396-mejpgb61guasknph6k51vod7p13cn0nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAupJNb6OEmRvxUXvcfzm2FkUMHZmgoDgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110737054396-mejpgb61guasknph6k51vod7p13cn0nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
